@@ -1,2 +1,0 @@
-# AkaedoNetworks.tk
-Akaedo
